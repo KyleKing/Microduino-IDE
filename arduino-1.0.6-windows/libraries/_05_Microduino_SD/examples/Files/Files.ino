@@ -7,7 +7,7 @@
  ** MOSI - pin 11
  ** MISO - pin 12
  ** CLK - pin 13
- ** CS - pin 4
+ ** CS - pin 7
  
  created   Nov 2010
  by David A. Mellis
@@ -20,6 +20,13 @@
 #include <SD.h>
 
 File myFile;
+
+// change this to match your SD shield or module;
+// Arduino Ethernet shield: pin 4
+// Adafruit SD shields and modules: pin 10
+// Sparkfun SD shield: pin 8
+// Microduino SD shield: pin 7
+const int chipSelect = 7;
 
 void setup()
 {
@@ -37,7 +44,7 @@ void setup()
   // or the SD library functions will not work. 
 
 // Microduino SD shield: pin 7
-  if (!SD.begin(7)) {
+  if (!SD.begin(chipSelect)) {
     Serial.println("initialization failed!");
     return;
   }
@@ -79,6 +86,3 @@ void loop()
 {
   // nothing happens after setup finishes.
 }
-
-
-
