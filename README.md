@@ -17,6 +17,7 @@ If you have any questions feel free to [start an issue](https://github.com/KyleK
 Find official resources and code here:
 - [Official Microduino Tutorials](https://www.microduino.cc/project)
 - [Official Sample Code](https://github.com/Microduino/Microduino_Tutorials) - very useful
+
 But don't forget blogs:
 - [Not much about Microduino yet](http://wiim.be/diy/getting-started-with-microduino-mac-and-windows/)
 
