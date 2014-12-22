@@ -1,35 +1,34 @@
 Microduino-IDE for Mac
 ==============
-> Get your microcontroller working
+> Tutorial and files for Microduino microcontroller quick-start from a Mac
 
-## Getting Started Guide
-### New to Arduino?
-[I wrote a second guide just for Mac Users]?????(and add link above)
+# Getting Started Guide
+[I wrote a second guide just for Mac Users](https://medium.com/@kyleking/microduino-and-mac-harmony-e738b8d7cc2) and this is the companion resource
 
+## New to Arduino?
 1. [Download as Zip](https://github.com/KyleKing/Microduino-IDE/archive/master.zip)
 2. Open arduino-1.0.6-macosx and move the arduino.app file into your application folder
-3. From the applications folder, open Arduino
-4. See links below for sample code and tutorials
-5. 
+3. From the applications folder, open Arduino and check for the Microduino boards:
+   ![Image](DIY Modification/Guide Images/3.png)
+4. Then install the drivers below:
 
-### Already have the Arduino IDE installed or the above not working?
-1. Use DIY folder
+### Drivers
+> Microduino needs a special driver [available here](http://www.ftdichip.com/Drivers/VCP.htm) or use the one downloaded with the repository
 
-# Notes
-- Added DIY folder with hardware information to add to an exisintg Arduino IDE
-- Make sure drivers are up to date: http://www.ftdichip.com/Drivers/VCP.htm
+1. From the unzipped folder, select the "drivers" folder and double click the .dmg to install
+2. Once done, restart your computer
+3. It should work from here! Here is what my serial port connection looks like:
+   ![Image](Guide Images/4.png)
 
-## FAQ
+## Already have the Arduino IDE installed or the above not working?
+1. [Go to this guide](DIY Modification)
+
+# FAQ
 If you have any questions feel free to [start an issue](https://github.com/KyleKing/Microduino-IDE/issues)
 
-## Guides and Sample Code
+# Guides and Sample Code
 Find official resources and code here:
-- [Official Microduino Tutorials](https://www.microduino.cc/project)
-- [Official Sample Code](https://github.com/Microduino/Microduino_Tutorials) - very useful
-
-But don't forget blogs:
-- [Not much about Microduino yet](http://wiim.be/diy/getting-started-with-microduino-mac-and-windows/)
-
-For up to date note make sure to see the [Official Microduino Guide](https://www.microduino.cc/project/view?id=5482ba0248f8313548d82b8c)
-
-For more ideas, help and else: see [the wiki](https://www.microduino.cc/wiki/index.php?title=Main_Page)
+- [The Precursor to this Guide](https://www.microduino.cc/project/view?id=5482ba0248f8313548d82b8c)
+- [Project Tutorials](https://www.microduino.cc/project)
+- [Sample Code](https://github.com/Microduino/Microduino_Tutorials) - very useful
+- [Wiki - support and tutorials](https://www.microduino.cc/wiki/index.php?title=Main_Page)
