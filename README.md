@@ -7,10 +7,10 @@ Microduino-IDE for Mac
 
 ## New to Arduino?
 1. [Download the Project as Zip](https://github.com/KyleKing/Microduino-IDE/archive/master.zip)
-2. Open arduino-1.0.6-macosx and move the arduino.app file into your application folder
+2. Open the "Microduino IDE" folder and move the arduino.app file into your application folder
 3. From the applications folder, open Arduino and check for the Microduino boards:
    ![Image](DIY Modification/Guide Images/3.png)
-4. Then install the drivers below:
+4. Then move on to the drivers section:
 
 ### Drivers
 > Microduino needs a special driver [available here](http://www.ftdichip.com/Drivers/VCP.htm) or use the one downloaded with the repository
