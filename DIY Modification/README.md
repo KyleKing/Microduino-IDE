@@ -18,7 +18,8 @@
 
 1. From the unzipped folder, select the "drivers" folder and double click the .dmg to install
 2. Once done, restart your computer
-3. It should work from here! Here is what my serial port connection looks like: ![Image](Guide Images/4.png)
+3. It should work from here! Here is what my serial port connection looks like:
+   ![Image](Guide Images/4.png)
 
 ## FAQ
 If you have any questions feel free to [start an issue](https://github.com/KyleKing/Microduino-IDE/issues)
