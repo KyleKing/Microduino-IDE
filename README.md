@@ -3,7 +3,7 @@ Microduino-IDE for Mac
 > Tutorial and files for Microduino microcontroller quick-start from a Mac
 
 # Getting Started Guide
-[I wrote a second guide just for Mac Users](https://medium.com/@kyleking/microduino-and-mac-harmony-e738b8d7cc2) and this is the companion resource
+[I wrote a second guide just for Mac users](https://medium.com/@kyleking/microduino-and-mac-harmony-e738b8d7cc2) and this is the companion resource
 
 ## New to Arduino?
 1. [Download the Project as Zip](https://github.com/KyleKing/Microduino-IDE/archive/master.zip)
