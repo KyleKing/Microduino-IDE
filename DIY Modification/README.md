@@ -4,7 +4,9 @@
 ## Get Started
 1. [Download the Project as Zip](https://github.com/KyleKing/Microduino-IDE/archive/master.zip)
 2. If you haven't already, download and install Arduino 1.0.X: http://arduino.cc/en/Main/Software (Quick Link: [Mac OS X](http://arduino.cc/download.php?f=/arduino-1.0.6-macosx.zip))
-3. Find your Arduino IDE and right click to show package contents: ![Image](Guide Images/1.png)
+3. Find your Arduino IDE and right click to show package contents:
+   ![Image](Guide Images/1.png)
+
 4. From the unzipped folder, open the "DIY Modification" folder and move the "microduino" folder into the arduino folder as shown: ![Image](Guide Images/2.png)
 5. From the applications folder, open Arduino and check for the Microduino boards: ![Image](Guide Images/3.png)
 
