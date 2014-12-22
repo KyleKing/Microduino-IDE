@@ -7,8 +7,11 @@
 3. Find your Arduino IDE and right click to show package contents:
    ![Image](Guide Images/1.png)
 
-4. From the unzipped folder, open the "DIY Modification" folder and move the "microduino" folder into the arduino folder as shown: ![Image](Guide Images/2.png)
-5. From the applications folder, open Arduino and check for the Microduino boards: ![Image](Guide Images/3.png)
+4. From the unzipped folder, open the "DIY Modification" folder and move the "microduino" folder into the arduino folder as shown:
+   ![Image](Guide Images/2.png)
+
+5. From the applications folder, open Arduino and check for the Microduino boards:
+   ![Image](Guide Images/3.png)
 
 ## Drivers
 > Microduino needs a special driver [available here](http://www.ftdichip.com/Drivers/VCP.htm) or use the one downloaded with the repository
