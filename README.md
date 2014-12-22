@@ -5,9 +5,9 @@ Microduino-IDE for Mac
 ## Getting Started Guide
 [I wrote a second guide just for Mac Users](Medium post)
 
-1. Download as Zip (Once downloaded your mac will recognize the conglomerate of files in the folder)
-2. Open the folder and move the Arduino app into your applications directory
-3. Open the Arduino IDE and get coding!
+1. [Download as Zip](https://github.com/KyleKing/Microduino-IDE/archive/master.zip)
+2. Open arduino-1.0.6-macosx and move the arduino.app file into your application folder
+3. From the applications folder, open Arduino
 4. See links below for sample code and tutorials
 
 ## FAQ
