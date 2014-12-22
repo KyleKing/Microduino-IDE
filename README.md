@@ -6,7 +6,7 @@ Microduino-IDE for Mac
 [I wrote a second guide just for Mac Users](https://medium.com/@kyleking/microduino-and-mac-harmony-e738b8d7cc2) and this is the companion resource
 
 ## New to Arduino?
-1. [Download as Zip](https://github.com/KyleKing/Microduino-IDE/archive/master.zip)
+1. [Download the Project as Zip](https://github.com/KyleKing/Microduino-IDE/archive/master.zip)
 2. Open arduino-1.0.6-macosx and move the arduino.app file into your application folder
 3. From the applications folder, open Arduino and check for the Microduino boards:
    ![Image](DIY Modification/Guide Images/3.png)
