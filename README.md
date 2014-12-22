@@ -11,7 +11,7 @@ Microduino-IDE for Mac
 4. See links below for sample code and tutorials
 
 ## FAQ
-If you have any questions feel free to start an issue to the right ->
+If you have any questions feel free to [start an issue](https://github.com/KyleKing/Microduino-IDE/issues)
 
 ## Guides and Sample Code
 Find sample code here:
