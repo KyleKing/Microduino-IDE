@@ -8,6 +8,9 @@
 4. From the unzipped folder, open the "DIY Modification" folder and move the "microduino" folder into the arduino folder as shown:
 
 ...![Image](Guide Images/1.png)
+...![Image](Guide Images/2.png)
+...![Image](Guide Images/3.png)
+...![Image](Guide Images/4.png)
 
 5. From the applications folder, open Arduino and check for the Microduino boards:
 
