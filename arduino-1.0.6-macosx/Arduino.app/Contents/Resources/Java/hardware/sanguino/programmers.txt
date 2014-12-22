@@ -1,6 +1,0 @@
-# See: http://code.google.com/p/arduino/wiki/Platforms
-
-avrispv2.name=AVR ISP v2
-avrispv2.communication=serial
-avrispv2.protocol=avrispv2
-
