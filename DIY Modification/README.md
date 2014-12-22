@@ -4,9 +4,7 @@
 ## Get Started
 1. [Download the Project as Zip](https://github.com/KyleKing/Microduino-IDE/archive/master.zip)
 3. Find your Arduino IDE and right click to show package contents
-
-... If you haven't, download Arduino IDE 1.0.X (The newest builds aren't fully supported)
-
+...If you haven't, download Arduino IDE 1.0.X (The newest builds aren't fully supported)
 4. From the unzipped folder, open the "DIY Modification" folder and move the "microduino" folder into the arduino folder as shown:
 
 ...![Image](Guide Images/1.png)
