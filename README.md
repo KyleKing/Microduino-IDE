@@ -31,5 +31,5 @@ But don't forget blogs:
 - [Not much about Microduino yet](http://wiim.be/diy/getting-started-with-microduino-mac-and-windows/)
 
 For up to date note make sure to see the [Official Microduino Guide](https://www.microduino.cc/project/view?id=5482ba0248f8313548d82b8c)
-and the wiki: ?????
 
+For more ideas, help and else: see [the wiki](https://www.microduino.cc/wiki/index.php?title=Main_Page)
